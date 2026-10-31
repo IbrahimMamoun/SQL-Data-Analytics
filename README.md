@@ -7,7 +7,6 @@ It builds on a previously developed **SQL Server Data Warehouse Project**, using
 
 The project covers data exploration, trend analysis, performance evaluation, customer and product segmentation, and the development of analytical reports.
 
-```
 
 ## Project Components
 
